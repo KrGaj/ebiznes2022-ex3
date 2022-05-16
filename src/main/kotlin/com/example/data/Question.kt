@@ -1,3 +1,3 @@
 package com.example.data
 
-data class Question(val text: String)
+data class Question(val text: String = "")
